@@ -2,8 +2,6 @@
 
 ## Entity-Relationship Diagram
 
-![ER Diagram](diagram.png)
-
 ## ER Diagram Code
 
 ```mermaid
