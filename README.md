@@ -1,5 +1,12 @@
-# 2910
-clase de SQL
+# Project Title
+
+## Entity-Relationship Diagram
+
+![ER Diagram](diagram.png)
+
+## ER Diagram Code
+
+```mermaid
 erDiagram
     PASSENGERS {
         int id PK
