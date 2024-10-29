@@ -21,7 +21,7 @@ erDiagram
     }
     
     PASSENGERS }o--|| FLIGHTS : "has flight"
----
+```
 ### Data Dictionary
 
 #### Table: `PASSENGERS`
