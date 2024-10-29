@@ -21,7 +21,7 @@ erDiagram
     }
     
     PASSENGERS }o--|| FLIGHTS : "has flight"
-
+---
 ### Data Dictionary
 
 #### Table: `PASSENGERS`
@@ -42,7 +42,7 @@ erDiagram
 | `destination` | VARCHAR   | NOT NULL                        | The city or location where the flight arrives.       |
 | `duration`    | INT       | NOT NULL                        | Duration of the flight in minutes.                   |
 
----
+
 
 ### Summary
 - The **`PASSENGERS`** table stores individual passenger data, including their assigned flight through the `flight_id` foreign key.
